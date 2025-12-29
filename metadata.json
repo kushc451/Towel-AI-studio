@@ -1,0 +1,7 @@
+{
+  "name": "TowelStudio Pro",
+  "description": "A professional image editor for towel ecommerce stores, leveraging Gemini's image generation and editing capabilities to create crease-free, perfectly posed product shots.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
